@@ -23,6 +23,12 @@
       "day": "Nueva fecha",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Otra tarea",
+      "day": "Otro día",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
