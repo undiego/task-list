@@ -10,7 +10,7 @@
       "id": 3,
       "text": "Terminar maqueta",
       "day": "febrero, 1 - 17hs.",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 4,
@@ -21,14 +21,8 @@
     {
       "text": "Nueva tarea",
       "day": "Nueva fecha",
-      "reminder": true,
-      "id": 5
-    },
-    {
-      "text": "Otra tarea",
-      "day": "Otro día",
       "reminder": false,
-      "id": 6
+      "id": 5
     }
   ]
 }
